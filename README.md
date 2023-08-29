@@ -12,7 +12,7 @@
   - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
 - <b>Python</b>
-  - [Movie Industry Data exploration and Analysis)](https://github.com/atamgbo/PythonMovieCorrelation)
+  - [Movie Industry Data exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
 - <b>R</b>
   - [Anova Design of Experiment for Toxic Chemicals](https://github.com/atamgbo/ANOVA-experiment)
   - [Hypothesis Testing](https://github.com/atamgbo/Hypothesis-testing-on-a-set-of-sample-numbers)
