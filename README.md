@@ -8,6 +8,7 @@
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
   - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
+  - [Understanding Bike Purchase Patterns for Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
 - <b>SQL</b>
   - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
