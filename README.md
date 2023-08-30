@@ -7,7 +7,7 @@
   - [Hospital Emergency Room Visits Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/EmergencyRoomVisitsDashboard_16860700000520/Dashboard1)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
-  - [Enhancing Benchmark Cutt-offs and Predictive Insights for Student Performance](https://github.com/atamgbo/EnhancingBenchmarkCutt-offsAndInsightsForStudentPerformance)
+  - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
 - <b>SQL</b>
   - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
