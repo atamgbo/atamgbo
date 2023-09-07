@@ -9,7 +9,7 @@
   - [Insights into ER Visits and Patient Experience](https://github.com/atamgbo/ERPatientVisit/tree/main)
 - <b>Excel</b>
   - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
-  - [Understanding Bike Purchase Patterns for Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
+  - [Customer Analysis for Marketing and Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
 - <b>SQL</b>
   - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
