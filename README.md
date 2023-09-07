@@ -3,10 +3,9 @@
 <h2>👨‍💻 Data analytics and visualization Projects:</h2>
 
 - <b>Tableau & Power BI</b>
-  - [Analysis on the Impact of Covid-19 on Global Population](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Covid-19Dashboard_16351836180290/Dashboard1)
-  - [Hospital Emergency Room Visits Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/EmergencyRoomVisitsDashboard_16860700000520/Dashboard1)
+  - [Analysis on the Impact of Covid-19 on Global Population](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
-  - [Insights into ER Visits and Patient Experience](https://github.com/atamgbo/ERPatientVisit/tree/main)
+  - [Insights for ER Visits and Patient Experience](https://github.com/atamgbo/ERPatientVisit/tree/main)
 - <b>Excel</b>
   - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
   - [Customer Analysis for Marketing and Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
