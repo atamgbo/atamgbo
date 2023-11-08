@@ -7,8 +7,8 @@
   - [Analysis on the Impact of Covid-19 on Global Population](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
-  - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
   - [Customer Analysis for Marketing and Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
+  - [Rocketship Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
 - <b>SQL</b>
   - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
