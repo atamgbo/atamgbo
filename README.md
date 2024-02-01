@@ -14,7 +14,7 @@
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
 - <b>Python & Apache Spark</b>
   - [Movie Industry Data exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
-  - [Hospital billing data transformation](https://github.com/atamgbo/PythonMovieCorrelation)
+  - [Hospital billing data transformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
 - <b>R</b>
   - [Anova Design of Experiment for Toxic Chemicals](https://github.com/atamgbo/ANOVA-experiment)
   - [Hypothesis Testing](https://github.com/atamgbo/Hypothesis-testing-on-a-set-of-sample-numbers)
