@@ -15,6 +15,7 @@
 - <b>Python & Apache Spark</b>
   - [Movie Industry Data Exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
   - [Hospital Billing Data Dransformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
+  - [Working with duplicate data](https://github.com/atamgbo/Working-with-duplicate-data/blob/main/drops_n_dropDuplicates.ipynb)
 - <b>R</b>
   - [Anova Design of Experiment for Toxic Chemicals](https://github.com/atamgbo/ANOVA-experiment)
   - [Hypothesis Testing](https://github.com/atamgbo/Hypothesis-testing-on-a-set-of-sample-numbers)
