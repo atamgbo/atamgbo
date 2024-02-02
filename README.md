@@ -14,7 +14,7 @@
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
 - <b>Python & Apache Spark</b>
   - [Movie Industry Data Exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
-  - [Hospital Billing Data Dransformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
+  - [Hospital Billing Data Transformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
   - [Working with Duplicate Data](https://github.com/atamgbo/Working-with-duplicate-data/blob/main/drops_n_dropDuplicates.ipynb)
   - [Product Analysis](https://github.com/atamgbo/Product-Analysis/blob/main/Product_Analysis.ipynb)
 - <b>R</b>
