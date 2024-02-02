@@ -1,4 +1,4 @@
-<h1>Hi, It's nice to have you here! I know you'll find what you're looking for <br/><a href="https://github.com/atamgbo">Data Professional</a></h1>
+<h1>Hi, It's nice to have you here! I know you'll find what you're looking for <br/><a 
 
 <h2>👨‍💻 Data transformation, analytics and visualization Projects:</h2>
 
