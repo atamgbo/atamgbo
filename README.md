@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ata! <br/><a href="https://github.com/atamgbo">Data Professional</a></h1>
+<h1>Hi, It's nice to have you here! I know you'll find what you're looking for <br/><a href="https://github.com/atamgbo">Data Professional</a></h1>
 
-<h2>👨‍💻 Data analytics and visualization Projects:</h2>
+<h2>👨‍💻 Data transformation, analytics and visualization Projects:</h2>
 
 - <b>Tableau & Power BI</b>
   - [Insights for ER Visits and Patient Experience](https://github.com/atamgbo/ERPatientVisit/tree/main)
