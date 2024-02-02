@@ -1,4 +1,4 @@
-<h1>Welcome to my github space where I show all things data, from my love with cleaning and transforming data across the data pipeline to analyzing and visualizing data for informed decision-making <br/><a 
+<h1>Welcome to my github space where I show all things data, from my love with cleaning and transforming data across the data pipeline to analyzing and visualizing data for informed decision-making. <br/><a 
 href="https://github.com/atamgbo"></a></h1></a></h1>
 <h2>👨‍💻 Data transformation, analytics and visualization Projects:</h2>
 
