@@ -11,6 +11,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Customer Analysis for Marketing and Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
   - [Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
 - <b>Hadoop with Apache Spark (SQL and Python)</b>
+  - [Aggregate Functions for Analysis](https://github.com/atamgbo/AggregateFunctions/blob/main/Aggregation.ipynb)
   - [Hospital Billing Transformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
   - [Working with Duplicate Data](https://github.com/atamgbo/Working-with-duplicate-data/blob/main/drops_n_dropDuplicates.ipynb)
   - [Product Analysis](https://github.com/atamgbo/Product-Analysis/blob/main/Product_Analysis.ipynb)
