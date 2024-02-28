@@ -8,7 +8,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Impact of Covid-19 on Global Population](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
-  - [Customer Analysis for Marketing and Sales Improvement](https://github.com/atamgbo/BikePurchasePattern)
+  - [Customer Analysis](https://github.com/atamgbo/BikePurchasePattern)
   - [Student Performance Analysis](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
 - <b>Hadoop with Apache Spark (SQL and Python)</b>
   - [Aggregate Functions for Analysis](https://github.com/atamgbo/AggregateFunctions/blob/main/Aggregation.ipynb)
