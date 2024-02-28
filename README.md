@@ -5,7 +5,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
 
 - <b>Tableau & Power BI</b>
   - [ER Visits and Patient Experience Insights](https://github.com/atamgbo/ERPatientVisit/tree/main)
-  - [Impact of Covid-19 on Global Population](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
+  - [Global Pandemic Analysis: Understanding the COVID-19 Crisis with SQL and Tableau](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
   - [Unlocking Opportunities: Bike Sales Analysis and Recommendations](https://github.com/atamgbo/BikePurchasePattern)
