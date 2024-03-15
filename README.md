@@ -8,6 +8,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Global Pandemic Analysis: Understanding the COVID-19 Crisis with SQL and Tableau](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
 - <b>Excel</b>
+  - [Market Analysis](https://github.com/atamgbo/BikePurchasePattern)
   - [Unlocking Opportunities: Bike Sales Analysis and Recommendations](https://github.com/atamgbo/BikePurchasePattern)
   - [CAASPP Alignment Analysis: Enhancing Student Performance Prediction](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
 - <b>Hadoop with Apache Spark (SQL and Python)</b>
