@@ -1,4 +1,4 @@
-<h1>Hey there! I'm a Data Professional with 6 years of experience working on Data Analytics and Big Data Projects across various domains. Below are samples of some of the projects I've done along with the tools utilized. Feel free to look around, and do not hesitate to reach out if you have any questions. <br/><a 
+<h1>Hey there! I'm a Data Professional with 6 years of experience working on Data Analytics and Big Data Projects across various domains. Below are samples of some analysis, visualization, and big data projects I've worked on. Feel free to look around, and do not hesitate to reach out if you have any questions. <br/><a 
 href="https://github.com/atamgbo"></a></h1></a></h1>
 <h2>👨‍💻 Data Projects:</h2>
 
@@ -25,7 +25,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
   - [Inventory Data Exploration](https://github.com/atamgbo/Inventory-Management-System-Exploratory-Data-Analysis)
 - <b>R</b>
-  - [Anova Design of Experiment for Toxic Chemicals](https://github.com/atamgbo/ANOVA-experiment)
+  - [Anova Design of Experiment](https://github.com/atamgbo/ANOVA-experiment)
   - [Hypothesis Testing](https://github.com/atamgbo/Hypothesis-testing-on-a-set-of-sample-numbers)
 
 <h2> 🤳 Connect with me:</h2>
