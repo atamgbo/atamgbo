@@ -12,7 +12,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Unlocking Opportunities: Bike Sales Analysis and Recommendations](https://github.com/atamgbo/BikePurchasePattern)
   - [CAASPP Alignment Analysis: Enhancing Student Performance Prediction](https://github.com/atamgbo/RocketshipStudentPerformanceAnalysis)
   - [A Comprehensive Sales Analytics for Coffee Connoisseurs](https://github.com/atamgbo/A-Comprehensive-Sales-Analytics-Interface-for-Coffee-Connoisseurs)
-- <b>Hadoop with Apache Spark (SQL and Python)</b>
+- <b>Hadoop and Apache Spark (SQL and Python)</b>
   - [Aggregate Functions for Analysis](https://github.com/atamgbo/AggregateFunctions/blob/main/Aggregation.ipynb)
   - [Hospital Billing Transformation](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hosital_data_cleaning%26transformation.ipynb)
   - [Working with Duplicate Data](https://github.com/atamgbo/Working-with-duplicate-data/blob/main/drops_n_dropDuplicates.ipynb)
