@@ -1,4 +1,4 @@
-<h1>Hey! Its so nice to have you here with me. I'm a Data Professional with 6 years of experience working on Data Analytics and Big Data Projects across various domains. Below are samples of some of the projects I've done along with the tools utilized. Feel free to look around, and do not hesitate to reach out if you have any questions. <br/><a 
+<h1>Hey there! I'm a Data Professional with 6 years of experience working on Data Analytics and Big Data Projects across various domains. Below are samples of some of the projects I've done along with the tools utilized. Feel free to look around, and do not hesitate to reach out if you have any questions. <br/><a 
 href="https://github.com/atamgbo"></a></h1></a></h1>
 <h2>👨‍💻 Data Projects:</h2>
 
