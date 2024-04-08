@@ -21,7 +21,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
 - <b>Python</b>
   - [Movie Industry Data Exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
 - <b>SQL</b>
-  - [World Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
+  - [Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
   - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
   - [Inventory Data Exploration](https://github.com/atamgbo/Inventory-Management-System-Exploratory-Data-Analysis)
 - <b>R</b>
