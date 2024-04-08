@@ -1,4 +1,4 @@
-<h1>Hey there! I'm a Data Professional with 6 years of experience working on ETL, Analytics, and Visualization Projects across various domains. Below are samples of some projects and tools I've utilized. <br/><a 
+<h1>Hey there! I'm a Data Professional with 6 years of experience working on ETL, Analytics, and Visualization Projects across various domains. <br/><a 
 href="https://github.com/atamgbo"></a></h1></a></h1>
 <h2>👨‍💻 Data Projects:</h2>
 
