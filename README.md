@@ -7,6 +7,10 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Enhancing Patient Care: An Analysis of ER Visit Metrics](https://github.com/atamgbo/ERPatientVisit/tree/main)
   - [Global Pandemic Analysis: Understanding the COVID-19 Crisis with SQL and Tableau](https://github.com/atamgbo/Analysis-on-the-global-impact-of-COVID19-disease)
   - [Video Game Analysis](https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Video_Games_Chart/Video_Games)
+- <b>SQL</b>
+  - [Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
+  - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
+  - [Inventory Data Exploration](https://github.com/atamgbo/Inventory-Management-System-Exploratory-Data-Analysis)
 - <b>Excel</b>
   - [Market Analysis](https://github.com/atamgbo/Market-Analysis/blob/main/Market-Analysis.pdf)
   - [Unlocking Opportunities: Bike Sales Analysis and Recommendations](https://github.com/atamgbo/BikePurchasePattern)
@@ -20,10 +24,6 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
   - [Sample](https://github.com/atamgbo/Sample1/blob/main/Sample_work1.py)
 - <b>Python</b>
   - [Movie Industry Data Exploration and Analysis](https://github.com/atamgbo/PythonMovieCorrelation)
-- <b>SQL</b>
-  - [Energy and CO2 Emissions Analysis](https://github.com/atamgbo/EnergyProductionAndCO2EmissionsAnalysis)
-  - [Nashville Housing Data Cleaning and Transformation](https://github.com/atamgbo/NashvilleHousing)
-  - [Inventory Data Exploration](https://github.com/atamgbo/Inventory-Management-System-Exploratory-Data-Analysis)
 - <b>R</b>
   - [Anova Design of Experiment](https://github.com/atamgbo/ANOVA-experiment)
   - [Hypothesis Testing](https://github.com/atamgbo/Hypothesis-testing-on-a-set-of-sample-numbers)
