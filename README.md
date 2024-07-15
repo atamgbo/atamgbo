@@ -3,7 +3,7 @@ href="https://github.com/atamgbo"></a></h1></a></h1>
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Hadoop and Apache Spark (SQL and Python)</b>
-  - [Apache Spark Loan ETL Project]([https://github.com/atamgbo/Apache-Spark-Data-Exploration-and-Cleaning-Project/blob/main/Loan_Cleaned_Project.ipynb](https://github.com/atamgbo/Apache-Spark-Data-Exploration-and-Cleaning-Project/blob/main/Loan_Data_Cleaning.ipynb))
+  - [Apache Spark Loan ETL Project](https://github.com/atamgbo/Apache-Spark-Data-Exploration-and-Cleaning-Project/blob/main/Loan_Data_Cleaning.ipynb)
   - [Hospital Billing Data Transformation Project](https://github.com/atamgbo/Healthcare-data-cleaning-transformation/blob/main/Hospital_data_cleaning%26transformation.ipynb)
   - [Aggregate Functions for Analysis](https://github.com/atamgbo/AggregateFunctions/blob/main/Aggregation.ipynb)
   - [Working with Duplicate Data](https://github.com/atamgbo/Working-with-duplicate-data/blob/main/drops_n_dropDuplicates.ipynb)
